@@ -10,7 +10,7 @@ to these requests from JSON into Kotlin objects.
 
 ## Required
 
-  - [ ] Chapter 24
+  - [x] Chapter 24
   - [ ] Chapter 25
   - [ ] Chapter 26
   - [ ] Chapter 27
