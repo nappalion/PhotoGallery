@@ -14,7 +14,7 @@ to these requests from JSON into Kotlin objects.
   - [x] Chapter 25
   - [x] Chapter 26
   - [x] Chapter 27
-  - [ ] Chapter 28
+  - [x] Chapter 28
   - [ ] Chapter 29 (harder - use WebView)
 
 
