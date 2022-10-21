@@ -15,7 +15,7 @@ to these requests from JSON into Kotlin objects.
   - [x] Chapter 26
   - [x] Chapter 27
   - [x] Chapter 28
-  - [ ] Chapter 29 (harder - use WebView)
+  - [x] Chapter 29 (harder - use WebView)
 
 
 ## Challenges
